@@ -1,2 +1,2 @@
-# Machine-learning
-MACHINE LEARNING PROJECTS
+#Linear Regression with one variable 
+LINEAR REGRESSION WITH ONE VARIABLE 
